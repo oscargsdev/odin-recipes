@@ -1,0 +1,49 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: rgb(185, 103, 89);
+}
+
+.title{
+    font-size: 100px;
+    text-align: center;
+}
+
+.links{
+    text-align: center;
+    font-size: 20px;
+}
+
+.berry{
+    color: rgb(45, 73, 196);
+    background-color: rgb(168, 168, 223);
+}
+
+.banana{
+    color: rgb(138, 101, 1);
+    background-color: rgb(218, 191, 120);
+}
+
+.beer{
+    color: brown;
+    background-color: rgb(226, 145, 87);
+}
+
+li{
+    font-style: italic;
+}
+
+ol li{
+    font-size: 20px;
+    font-style: normal;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.desc{
+    text-align: center;
+    font-size: 25px;
+}
